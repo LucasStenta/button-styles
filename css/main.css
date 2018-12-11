@@ -13,12 +13,12 @@ div {
 }
 
 .btn {
-	display: inline-block;
-	text-decoration: none;
-	color: #fff;
-	font-size: 1.125rem;
-	padding: .4em .75em .3em;
-	background-color: #333;
-	border: 3px solid #333;
-	border-radius: 8px;
-	}
+  display: inline-block;
+  text-decoration: none;
+  color: #fff;
+  font-size: 1.125rem;
+  padding: .4em .75em .3em;
+  background-color: #333;
+  border: 3px solid #333;
+  border-radius: 8px;
+}
